@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nisssan
+- 👋 Hi, I’m @nissan98
 - 🌱 I’m currently learning web dev dsa devops and web3
 - 17
 
