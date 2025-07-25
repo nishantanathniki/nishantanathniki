@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nishantanathniki
-- 👀 I’m interested in data science,java clp,android devlopment
-- 🌱 I’m currently learning data science maths,ml,core java and sklearn,pandas,numpy
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me not interested
+- 👋 Hi, I’m @nisssan
+- 🌱 I’m currently learning web dev dsa devops and web3
+- 17
+
+
 
 <!---
 nishantanathniki/nishantanathniki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
